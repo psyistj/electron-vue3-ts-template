@@ -8,7 +8,7 @@ npm i
 
 ## Local Debug
 
-### Web Typescrip Build
+### Web Typescript Build
 
 ```
 npm run build:dev:watch
